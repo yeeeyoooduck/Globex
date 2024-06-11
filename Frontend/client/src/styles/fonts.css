@@ -1,0 +1,13 @@
+/* Подключение Regular */
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+/* Подключение Bold */
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
